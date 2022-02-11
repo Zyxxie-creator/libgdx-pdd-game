@@ -1,0 +1,230 @@
+
+map_tx.png
+size: 512, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+bench1
+  rotate: false
+  xy: 38, 10
+  size: 31, 104
+  orig: 31, 104
+  offset: 0, 0
+  index: -1
+bench2
+  rotate: false
+  xy: 2, 10
+  size: 34, 104
+  orig: 34, 104
+  offset: 0, 0
+  index: -1
+bush1
+  rotate: false
+  xy: 223, 3
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+bush2
+  rotate: false
+  xy: 297, 3
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+bush3
+  rotate: false
+  xy: 260, 3
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+plitka
+  rotate: false
+  xy: 451, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road
+  rotate: false
+  xy: 337, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road0
+  rotate: false
+  xy: 147, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road10
+  rotate: false
+  xy: 299, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road11
+  rotate: false
+  xy: 147, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road12
+  rotate: false
+  xy: 413, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road13
+  rotate: false
+  xy: 223, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road14
+  rotate: false
+  xy: 147, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road15
+  rotate: false
+  xy: 337, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road16
+  rotate: false
+  xy: 185, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road17
+  rotate: false
+  xy: 71, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road18
+  rotate: false
+  xy: 261, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road19
+  rotate: false
+  xy: 185, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road2
+  rotate: false
+  xy: 299, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road20
+  rotate: false
+  xy: 375, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road3
+  rotate: false
+  xy: 71, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road4
+  rotate: false
+  xy: 375, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road5
+  rotate: false
+  xy: 185, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road6
+  rotate: false
+  xy: 109, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road8
+  rotate: false
+  xy: 109, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road9
+  rotate: false
+  xy: 413, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road_light
+  rotate: false
+  xy: 223, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road_top
+  rotate: false
+  xy: 109, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+road7
+  rotate: false
+  xy: 109, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+tile1
+  rotate: false
+  xy: 451, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+tile2
+  rotate: false
+  xy: 261, 40
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+tile3
+  rotate: false
+  xy: 71, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

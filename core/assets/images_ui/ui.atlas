@@ -1,0 +1,20 @@
+
+ui.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+btnstart
+  rotate: false
+  xy: 2, 2
+  size: 200, 57
+  orig: 200, 57
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 61
+  size: 480, 300
+  orig: 480, 300
+  offset: 0, 0
+  index: -1
